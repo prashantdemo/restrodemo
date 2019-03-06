@@ -11,7 +11,7 @@
 .container
 {
   /*  animation: slide  100s infinite;*/
-  background-image:url(r.png) no-repeat ;
+  background-image:url(r.png)  ;
   background-size: cover;
     width: 100%;
     height: 700px;
@@ -306,8 +306,8 @@ border-radius: 50%;
     
     position: absolute;
     top: 715px;
-    left:60%;
-    width: 545px;
+    left:61%;
+    width: 530px;
     height:340px;
     padding-top: 40px;
     background: rgb(54, 53, 53) ;
